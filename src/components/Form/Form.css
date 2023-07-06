@@ -1,0 +1,25 @@
+.section-form {
+    margin: 5rem 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1.5rem;
+    width: 80%;
+    padding: 2rem 4rem;
+    background-color: #F6F6F6;
+    box-shadow: 7px 7px 15px 0px #00000014;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.form label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
