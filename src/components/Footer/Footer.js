@@ -23,7 +23,7 @@ export const Footer = function() {
 
             <img className="logo" src="/images/Logo.svg" alt="organo" />
 
-            <h5>Desenvolvido por Alura</h5>
+            <h5>Desenvolvido por Nicolas</h5>
         </footer>
     )
 }
